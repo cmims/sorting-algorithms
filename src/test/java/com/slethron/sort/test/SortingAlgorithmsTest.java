@@ -74,9 +74,4 @@ public class SortingAlgorithmsTest {
         SortingAlgorithms.recursiveBubbleSort(items);
         assertEquals(desiredResult, items);
     }
-
-    @Test
-    public void insertionSort() {
-
-    }
 }
